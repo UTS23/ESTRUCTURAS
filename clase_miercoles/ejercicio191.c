@@ -11,7 +11,7 @@
          float salario; 
  }/*n1*/; 
   
- struct trabajador n1,n2,n3; 
+ struct trabajador n1; 
   
  void main(){ 
   printf("Nombre: "); 
